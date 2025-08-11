@@ -3,6 +3,9 @@
 
 ![Demo App](/assets/images/Screenshot 2025-08-11 172223.png)
 
+<img width="580" height="555" alt="Screenshot 2025-08-11 172223" src="https://github.com/user-attachments/assets/a2aca810-9161-4ceb-a86d-95df8591f46e" />
+
+
 Welcome to the **React Native To‑Do App Tutorial**!  
 In this one‑stop tutorial you’ll build a fully functional **real‑time to‑do application** that runs on **iOS, Android, and the web**—all with **React Native + Expo**, and **Convex**.
 
